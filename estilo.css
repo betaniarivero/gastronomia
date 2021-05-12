@@ -1,0 +1,126 @@
+
+.header-index{
+    background-color: khaki;
+    color: black;
+    width: 100%;
+    left: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.nav-header{
+    padding-top: 12px;
+  }
+
+  .ancla-header{
+    background-color: orange;
+    color:white;
+    border-radius: 2px;
+    text-decoration: none;
+    margin-left: 10px;
+    padding-left: 5px;
+  }
+
+  main{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-style: italic;
+    overflow: hidden;
+  }
+
+  .caja1{
+    text-decoration: underline;
+  }
+
+  .caja2{
+    float: left;
+    width: 30%;
+  }
+
+  .caja2 img{
+    height: 315px;
+    border-radius: 8px;
+  }
+
+  .caja3{
+    float:left;
+    width: 70%;
+  }
+
+
+ footer{
+    background-color: khaki;
+    color: black;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 3px;
+    padding: 13px;
+    padding-top: 10px;
+    margin-top: 12px;
+    color: black;
+}  
+
+
+.foto1{
+    float: left;
+    width: 600px;
+    height: 400px;
+    padding: 13px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+}   
+
+.parrafo{
+    float: left;
+    width: 570px;
+    margin-left: 50px;
+}
+
+.mainnosotros{
+    background-image:url(cocina.jpg);
+    overflow: hidden;
+}
+
+.contacto1{
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    font-weight: bold;
+    color:orange;
+    
+}
+
+.contacto2{
+    text-decoration: underline;
+}
+
+input:hover{
+    background-color: coral;
+}
+
+input:focus{
+    background-color: coral;
+}
+
+textarea:hover{
+    background-color: coral;
+}
+
+.mapas{
+    margin: auto;
+    width: 90%;
+    text-align: center;
+}
+
+.iframe-2{
+  margin-left: 25px;
+}
+
+
+
+
+
+
+
+  
+
